@@ -186,3 +186,16 @@ https://www.eolymp.com/ru/problems/4853 - Кратчайший путь
 https://www.e-olymp.com/ru/problems/1948 - Топологическая сортировка
 https://www.e-olymp.com/ru/problems/2022 - Циклы в графе
 https://www.e-olymp.com/ru/problems/1947 - Конденсация графа
+
+# ДЗ 10.
+
+Дэдлайн - 16.12 
+Минимальный каркас - https://www.eolymp.com/ru/problems/3835
+Кратчайший путь - https://www.eolymp.com/ru/problems/4856
+Форд-Беллман - https://www.eolymp.com/ru/problems/1453
+Опасный маршрут - https://www.eolymp.com/ru/problems/325
+
+Доп задача для тех, кому интересно (по поиску мостов) (баллы не обещаю):
+Мосты - https://www.eolymp.com/ru/problems/1943
+
+В ДЗ в первую очередь смотрим на код, а не на тли на e-olymp, но это не значит, что не нужно пытаться написать максимально эффективное решение.
